@@ -1,0 +1,4 @@
+- Rodar no terminal: earthengine authenticate
+- Selecionar projeto: earthengine set_project nome-do-projeto (ee-waterandrei)
+
+earthengine set_project ee-waterandrei
