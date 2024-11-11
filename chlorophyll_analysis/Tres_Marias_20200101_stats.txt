@@ -1,0 +1,4 @@
+Reservoir: Tres_Marias
+Date Range: 2020-01-01 to 2020-04-01
+Minimum chlorophyll value: -0.3353506974461443
+Maximum chlorophyll value: 6.5333500348919955
