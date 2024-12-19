@@ -1,6 +1,0 @@
-Caçu:
-clorofila - lasso
-Sólidos_Dissolvidos_Totais_20241024_182853 - rf
-transparencia = rf
-turbidez = rf
-

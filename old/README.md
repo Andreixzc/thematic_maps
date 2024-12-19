@@ -1,2 +1,0 @@
-# Thematic Maps Visualization 
-This project provides visualization for thematic maps related to water quality AI project, using trained models from [water_quality_maps](https://github.com/Andreixzc/water_quality_maps).
