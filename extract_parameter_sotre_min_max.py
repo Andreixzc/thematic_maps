@@ -245,10 +245,9 @@ class ChlorophyllProcessor:
 if __name__ == "__main__":
     # Initialize processor
     processor = ChlorophyllProcessor(
-        model_path='models/cacu/clorofila/model.joblib',
-        scaler_path='models/cacu/clorofila/scaler.joblib'
+        model_path='models/cacu/Clorofila/model.joblib',
+        scaler_path='models/cacu/Clorofila/scaler.joblib'
     )
-    
     # Define area of interest (example coordinates)
     aoi = ee.Geometry.Polygon([[[-45.559114, -18.954365], [-45.559114, -18.212409], 
                                [-44.839706, -18.212409], [-44.839706, -18.954365], 
